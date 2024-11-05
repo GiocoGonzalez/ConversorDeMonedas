@@ -6,5 +6,5 @@
 3. Utiliza una interfaz sencilla.
 
 ## Tecnologías utilizadas: ##
-JAVA
+[![Java](https://img.shields.io/badge/java-17-orange.svg)](https://www.java.com/)
 
